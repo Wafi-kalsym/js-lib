@@ -1,0 +1,14 @@
+{
+    "name": "js-lib",
+    "version": "0.0.1",
+    "author": "Wafi Aziz",
+    "repository": "git@kalsym.com",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+    },
+    "devDependencies": {
+        "typescript": "^5.4.2"
+    }
+}

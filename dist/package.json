@@ -7,7 +7,7 @@
     "sideEffects": false,
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/monsterlessonsacademy/utils.git"
+        "url": "git+https://github.com/Wafi-kalsym/js-lib.git"
     },
     "files": [
         "lib",
@@ -24,7 +24,7 @@
     "author": "Wafi Aziz",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/monsterlessonsacademy/utils/issues"
+        "url": "https://github.com/Wafi-kalsym/js-lib/issues"
     },
-    "homepage": "https://github.com/monsterlessonsacademy/utils#readme"
+    "homepage": "https://github.com/Wafi-kalsym/js-lib"
 }
